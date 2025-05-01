@@ -5,7 +5,7 @@ import geopandas as gpd
 from landsatxplore.api import API
 
 username = "mhmdreza"
-password = "M4610694530g"
+password = ****
 
 # Initialize a new API instance and get an access key
 api = API(username, password)
